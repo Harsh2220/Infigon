@@ -1,0 +1,25 @@
+.Home{
+    min-height: 100vh;
+    padding: 100px 0px;
+    background-color: #2F3778;
+    color: white;
+}
+
+.text > p {
+    margin-right: 100px;
+}
+
+.steps{
+    margin: 20px 0px;
+}
+
+.step{
+    font-size: 15px;
+}
+
+.self{
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    color: turquoise;
+}
